@@ -38,6 +38,18 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['zh'],
+        indexBlog: true,
+        indexDocs: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/social-card.jpg',
     navbar: {
