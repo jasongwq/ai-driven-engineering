@@ -1,7 +1,6 @@
 ---
 title: 规范文件
 slug: /engineering/spec-files
-draft: true
 ---
 
 # 规范文件

@@ -1,7 +1,6 @@
 ---
 title: Code Review 实践
 slug: /quality/code-review
-draft: true
 ---
 
 # Code Review 实践
@@ -19,7 +18,7 @@ AI 生成的代码有独特的质量特征，审查时需要特别关注：
 | 重大问题数 | 1.7x 更多 | CodeRabbit 2025 |
 | 安全漏洞 | 2.74x 更多 | CodeRabbit 2025 |
 | 配置错误 | 75% 更多 | CodeRabbit 2025 |
-| 代码重构率 | 从 25% 降至 <10% | GitClear 2024 |
+| 代码重构率 | 从 25% 降至 \<10% | GitClear 2024 |
 | 代码重复 | 增加 ~4x | GitClear 2024 |
 
 ## Writer/Reviewer 并行模式

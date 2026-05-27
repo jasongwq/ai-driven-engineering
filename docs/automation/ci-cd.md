@@ -1,7 +1,6 @@
 ---
 title: CI/CD 集成
 slug: /automation/ci-cd
-draft: true
 ---
 
 # CI/CD 集成

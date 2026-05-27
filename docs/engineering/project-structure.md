@@ -1,7 +1,6 @@
 ---
 title: 项目结构设计
 slug: /engineering/project-structure
-draft: true
 ---
 
 # 项目结构设计

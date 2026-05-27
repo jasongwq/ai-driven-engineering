@@ -1,7 +1,6 @@
 ---
 title: 测试策略
 slug: /quality/testing-strategy
-draft: true
 ---
 
 # 测试策略

@@ -1,7 +1,6 @@
 ---
 title: 常见反模式
 slug: /core/anti-patterns
-draft: true
 ---
 
 # 常见反模式

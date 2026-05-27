@@ -1,7 +1,6 @@
 ---
 title: 安全审查
 slug: /quality/security-review
-draft: true
 ---
 
 # 安全审查

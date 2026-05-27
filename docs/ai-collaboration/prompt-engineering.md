@@ -1,7 +1,6 @@
 ---
 title: 提示工程
 slug: /ai-collaboration/prompt-engineering
-draft: true
 ---
 
 # 提示工程

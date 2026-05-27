@@ -3,7 +3,6 @@ slug: hello-ai-driven-engineering
 title: 你好，AI-Driven Engineering
 authors: [jasongwq]
 tags: [思考]
-draft: true
 ---
 
 # 你好，AI-Driven Engineering

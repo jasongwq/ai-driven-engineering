@@ -1,7 +1,6 @@
 ---
 title: 效率工具链
 slug: /automation/efficiency-tools
-draft: true
 ---
 
 # 效率工具链

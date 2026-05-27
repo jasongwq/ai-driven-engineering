@@ -1,7 +1,6 @@
 ---
 title: 核心原则
 slug: /core/principles
-draft: true
 ---
 
 # 核心原则

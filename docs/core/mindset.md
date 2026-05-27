@@ -1,7 +1,6 @@
 ---
 title: 心智模型
 slug: /core/mindset
-draft: true
 ---
 
 # 心智模型

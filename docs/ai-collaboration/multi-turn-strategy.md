@@ -1,7 +1,6 @@
 ---
 title: 多轮对话策略
 slug: /ai-collaboration/multi-turn-strategy
-draft: true
 ---
 
 # 多轮对话策略
