@@ -11,6 +11,10 @@ const config: Config = {
   baseUrl: '/ai-driven-engineering/',
   trailingSlash: false,
 
+  organizationName: 'jasongwq',
+  projectName: 'ai-driven-engineering',
+  deploymentBranch: 'gh-pages',
+
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
@@ -25,11 +29,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
-          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/main/',
+          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/master/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/main/',
+          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
