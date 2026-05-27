@@ -29,11 +29,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
-          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/master/',
+          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/master/',
+          editUrl: 'https://github.com/jasongwq/ai-driven-engineering/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
