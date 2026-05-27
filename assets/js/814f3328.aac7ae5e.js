@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkai_driven_engineering=globalThis.webpackChunkai_driven_engineering||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4f60\u597d\uff0cAI-Driven Engineering","permalink":"/ai-driven-engineering/blog/hello-ai-driven-engineering","unlisted":false,"date":"2025-05-22T00:00:00.000Z"}]}')}}]);

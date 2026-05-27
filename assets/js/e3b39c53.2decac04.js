@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkai_driven_engineering=globalThis.webpackChunkai_driven_engineering||[]).push([[9630],{9279(n){n.exports=JSON.parse('{"authors":[{"name":"jasongwq","title":"AI-Driven Engineering \u63a2\u7d22\u8005","url":"https://github.com/jasongwq","imageURL":"https://github.com/jasongwq.png","key":"jasongwq","page":null,"count":1}]}')}}]);

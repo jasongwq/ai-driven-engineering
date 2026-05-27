@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkai_driven_engineering=globalThis.webpackChunkai_driven_engineering||[]).push([[5574],{8406(e){e.exports=JSON.parse('{"tags":[{"label":"\u601d\u8003","permalink":"/ai-driven-engineering/blog/tags/\u601d\u8003","description":"\u5bf9 AI-Driven Engineering \u7684\u601d\u8003\u4e0e\u6d1e\u5bdf","count":1}]}')}}]);
