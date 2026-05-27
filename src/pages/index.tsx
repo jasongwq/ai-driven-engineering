@@ -1,10 +1,12 @@
 import React from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 
 export default function Home(): React.JSX.Element {
   const {siteConfig} = useDocusaurusContext();
+  const docsLink = useBaseUrl('/docs/core/mindset');
   return (
     <Layout
       title={`首页`}
@@ -75,7 +77,7 @@ export default function Home(): React.JSX.Element {
 
         <div style={{marginTop: '2rem'}}>
           <a
-            href="/docs/core/mindset"
+            href={docsLink}
             style={{
               display: 'inline-block',
               padding: '0.75rem 2rem',
